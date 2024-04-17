@@ -1,16 +1,16 @@
-### Hi there 👋
+# 문경태 - 한양대학교 컴퓨터소프트웨어학부 20학번, 3학년 재학 중.
 
-<!--
-**Mun-0495/Mun-0495** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 직함
+- 2024 한양대학교 보안동아리 ICEWALL 회장.
 
-Here are some ideas to get you started:
+## 관심분야
+- 포너블, 리버싱, 악성코드 분석, 취약점 분석
+- 알고리즘.
+- 개임 개발.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 프로젝트 이력
+- 보안 관련 프로젝트 진행중(학부)
+- 내부 CTF 플랫폼 제작 PM.
+- STIX 분석 및 STIX VISUALIZER 개편, INCOGNITO CONFERNECE 발표
+- 개인 프로젝트 : 백엔드, 프론트엔드 서버 구축과 연결.
+
