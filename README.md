@@ -12,6 +12,6 @@
 
 ## 프로젝트 이력
 - 보안 관련 프로젝트 진행중(학부)
-- 내부 CTF 플랫폼 제작 PM.
+- 동아리 내부 CTF 플랫폼 제작 PM.
 - STIX 분석 및 STIX VISUALIZER 개편, INCOGNITO CONFERNECE 발표
 - 간단한 웹 페이지 및 백엔드 서버를 구축하는 개인 프로젝트. (Spring Framework 사용)
